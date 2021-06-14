@@ -8,7 +8,10 @@ Essa é uma simples identidade visual implementada para Bancos.
 **Design por: Rafael Izidorio.**
  
  <p align="center">
- <img  width="300" height="625" src="assets/images/present.jpg">
+ <img   src="assets/images/present1.jpg">
  <p/>
  
  ## Implementação
+ <p align="center">
+ <img   src="assets/images/present2.png">
+ <p/>
